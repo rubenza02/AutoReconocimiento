@@ -19,9 +19,10 @@
     ```
 
 - Ya podemos ejecutar la herremienta desde consola de la siguiente manera
-
-      ```
-      ./autoreconocimiento.sh
-      ```
+  
+    ```
+    ./autoreconocimiento.sh
+    ```
+    
 
 
