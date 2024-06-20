@@ -7,7 +7,21 @@
 ## Como utilizar la herrramienta
 
 - Clonaremos el repositorio en nuestro sistema
+  
   ```
   git clone https://github.com/rubenza02/AutoReconocimiento.git
   ```
-  
+
+  - Otorgamos permisos de ejecucion al archivo autoreconocimiento.sh
+
+    ```
+    chmod +x autoreconocimiento.sh
+    ```
+
+    - Ya podemos ejecutar la herremienta desde consola de la siguiente manera
+
+      ```
+      ./autoreconocimiento.sh
+      ```
+
+      --------------------------------------------------------------------------------------------
